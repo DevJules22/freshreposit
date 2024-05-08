@@ -1,3 +1,3 @@
 *.css #ignorer un fichier ayant une extension specifique
-node_module/* #ignorer un dossier specifique
+node_modules/* #ignorer un dossier specifique
 index.html #ignorer un fichier specifique
